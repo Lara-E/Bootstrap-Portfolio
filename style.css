@@ -1,0 +1,141 @@
+
+* {box-sizing: border-box;
+}
+header {
+    background-color: #f2efeb;
+}
+body {
+    background-color: #c2c1bd;
+}
+
+.navbar {
+    height: 100px;
+    position: relative;
+    background-color: #f2efeb;
+    color: #f2efeb;
+}
+
+.nav-item {
+    color: midnightblue;
+}
+
+.contact,
+.portfolio,
+.name {
+    position: absolute;
+    top: 0;
+    margin-left: -215px;
+    left: 200px;
+    background-color: midnightblue;
+    height: 100px;
+    padding: 25px 50px 0 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.vl {
+    border-left: 1px solid midnightblue;
+    height: 15px;
+    margin-top: 15px;
+}
+
+.aboutme {
+    font-size: 40px;
+    padding-left: 20px;
+    color: midnightblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.row1 {
+    height: 90px;
+
+}
+
+hr {
+    border: 1px solid midnightblue;
+    background-color: midnightblue;
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-aboutme{
+    background-color: white;
+    margin-top: 30px;
+}
+
+img {
+    margin: 25px 0 0 30px;
+    
+}
+
+.floatleft {
+    float: left;
+}
+
+.paragraph1 {
+    margin: 15px 25px 0 30px;
+}
+
+p {
+    line-height: 2;
+    margin: 20px;
+}
+
+.paragraph3 {
+    margin-bottom: 40px;
+}
+
+.form-group {
+}
+
+.row-contact {
+    padding-bottom: 30px;
+}
+
+.submit {
+    margin-bottom: 10px;
+
+}
+
+#exampleFormControlTextarea1 {
+    height: 150px;
+}
+
+.project-image {
+    display: block;
+    width: 250px;
+    height: 200px;
+}
+.portfolio-image {
+    height: 200px;
+    width: 250;
+}
+
+.container-portfolio {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.row-projects {
+    position: relative;
+}
+
+.badge-1 {
+    width: 250px;
+    height: 30px;
+    font-size: 24px;
+    padding-bottom: 30px;
+    background-color: midnightblue;
+}
+
+.badge-1 {
+    position: absolute;
+    bottom: 20px;
+    left: 45px;
+}
+
+
+
+
+
+
